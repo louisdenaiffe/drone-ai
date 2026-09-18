@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 from ultralytics import YOLO
 from PIL import ImageGrab
-import time
 
 
 print("Loading YOLOv8...")
